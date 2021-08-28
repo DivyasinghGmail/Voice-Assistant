@@ -176,7 +176,6 @@ many accordingly.
 
 * You can add so many pages and commands for your Voice assistant
 
+Happy reading:)
 
-Check out my site now :
 
-https://divyasinghgmail.github.io/Voice-Assistant/
