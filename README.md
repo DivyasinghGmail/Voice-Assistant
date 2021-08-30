@@ -176,5 +176,9 @@ many accordingly.
 
 * You can add so many pages and commands for your Voice assistant
 
+Conclusion
+
+Hope you liked our project where we created a voice assistant that can understand voice command using speech recognition in Python. We just showed you a prototype, but you can add as many creative features and functionalities as you require.
+
 Happy reading:)
 
